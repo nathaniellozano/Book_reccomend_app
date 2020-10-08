@@ -1,0 +1,22 @@
+
+
+As a user, I should be able to: Add a profile image!
+As a user, I should be able to: Search for new books!
+As a user, I should be able to: Look at my library*!
+As a user, I should be able to: Edit my library*!
+As a user, I should be able to: Create library folder*!
+As a user, I should be able to: Delete a library folder*!
+As a user, I should be able to: Look at my recommendations*!
+As a user, I should be able to: Edit my genre preferences*!
+As a user, I should be able to: Edit my book preferences *!
+As a user, I should be able to: Edit my author preferences*!
+
+As a user, I should not be able to:See other people's libraries
+As a user, I should not be able to:Change other users account information
+As a user, I should not be able to:Change other users Book preferences 
+
+As an admin: I should be able to add to the master genre list*
+As an admin: I should be able to edit the master book list *
+As an admin: I should be able to add to the master genre list*
+
+
